@@ -13,7 +13,7 @@ spec:
         app: midbuggy
     spec:
       containers:
-      - name: midbuggy
+      - name: mid
         image: 787939039510.dkr.ecr.us-west-2.amazonaws.com/mid
         imagePullPolicy: Always
         ports:
